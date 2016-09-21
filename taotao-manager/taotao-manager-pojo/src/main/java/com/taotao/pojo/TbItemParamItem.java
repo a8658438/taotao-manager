@@ -3,9 +3,9 @@ package com.taotao.pojo;
 import java.util.Date;
 
 public class TbItemParamItem {
-    private Long id;
+	private Long itemId;
 
-    private Long itemId;
+	private Long id;
 
     private Date created;
 
